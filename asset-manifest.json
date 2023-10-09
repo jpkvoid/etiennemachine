@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c43524ea.css",
-    "main.js": "/react-gh-pages/static/js/main.66d2ba96.js",
-    "static/js/787.6444aa03.chunk.js": "/react-gh-pages/static/js/787.6444aa03.chunk.js",
-    "static/media/hero.png": "/react-gh-pages/static/media/hero.5a150c92f8fed37542ba.png",
-    "static/media/playground_cover.jpg": "/react-gh-pages/static/media/playground_cover.7d9268ce1629a293577f.jpg",
-    "static/media/playground_logo.png": "/react-gh-pages/static/media/playground_logo.d213c2599e5e4255eab9.png",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.5bff03397bb9ea8d3129.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c43524ea.css.map": "/react-gh-pages/static/css/main.c43524ea.css.map",
-    "main.66d2ba96.js.map": "/react-gh-pages/static/js/main.66d2ba96.js.map",
-    "787.6444aa03.chunk.js.map": "/react-gh-pages/static/js/787.6444aa03.chunk.js.map"
+    "main.css": "/etiennemachine/static/css/main.c43524ea.css",
+    "main.js": "/etiennemachine/static/js/main.81684381.js",
+    "static/js/787.6444aa03.chunk.js": "/etiennemachine/static/js/787.6444aa03.chunk.js",
+    "static/media/hero.png": "/etiennemachine/static/media/hero.5a150c92f8fed37542ba.png",
+    "static/media/playground_cover.jpg": "/etiennemachine/static/media/playground_cover.7d9268ce1629a293577f.jpg",
+    "static/media/playground_logo.png": "/etiennemachine/static/media/playground_logo.d213c2599e5e4255eab9.png",
+    "static/media/logo.png": "/etiennemachine/static/media/logo.5bff03397bb9ea8d3129.png",
+    "index.html": "/etiennemachine/index.html",
+    "main.c43524ea.css.map": "/etiennemachine/static/css/main.c43524ea.css.map",
+    "main.81684381.js.map": "/etiennemachine/static/js/main.81684381.js.map",
+    "787.6444aa03.chunk.js.map": "/etiennemachine/static/js/787.6444aa03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c43524ea.css",
-    "static/js/main.66d2ba96.js"
+    "static/js/main.81684381.js"
   ]
 }
