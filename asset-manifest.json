@@ -1,12 +1,20 @@
 {
   "files": {
-    "main.css": "/etiennemachine/static/css/main.2d386247.css",
-    "main.js": "/etiennemachine/static/js/main.d756b4fa.js",
+    "main.css": "/etiennemachine/static/css/main.dc6a365d.css",
+    "main.js": "/etiennemachine/static/js/main.b52d8a02.js",
     "static/js/845.de2ef9cd.chunk.js": "/etiennemachine/static/js/845.de2ef9cd.chunk.js",
     "static/js/787.6444aa03.chunk.js": "/etiennemachine/static/js/787.6444aa03.chunk.js",
     "static/media/hero.png": "/etiennemachine/static/media/hero.5a150c92f8fed37542ba.png",
+    "static/media/julien2.jpeg": "/etiennemachine/static/media/julien2.0e612d31a9cc5a3346a2.jpeg",
     "static/media/etiennemachine1.jpg": "/etiennemachine/static/media/etiennemachine1.8e178c0f9399408fbb16.jpg",
     "static/media/playground_cover.jpg": "/etiennemachine/static/media/playground_cover.7d9268ce1629a293577f.jpg",
+    "static/media/julien1.jpg": "/etiennemachine/static/media/julien1.bfb8743dae6271dff52f.jpg",
+    "static/media/arno2.jpg": "/etiennemachine/static/media/arno2.7858877ade7d44634941.jpg",
+    "static/media/asher1.jpg": "/etiennemachine/static/media/asher1.2f441d197365e3bd5df4.jpg",
+    "static/media/sacha1.jpg": "/etiennemachine/static/media/sacha1.4e8a5ec3dd8691a3d7ff.jpg",
+    "static/media/arno1.jpg": "/etiennemachine/static/media/arno1.e2f1d9d4cd94f15fcdb5.jpg",
+    "static/media/asher2.jpg": "/etiennemachine/static/media/asher2.b101372c8012200c543a.jpg",
+    "static/media/sacha2.jpg": "/etiennemachine/static/media/sacha2.ff4c3de4290a130c8bab.jpg",
     "static/media/playground_logo.png": "/etiennemachine/static/media/playground_logo.d213c2599e5e4255eab9.png",
     "static/media/easterMachine20.mp3": "/etiennemachine/static/media/easterMachine20.709d052fad2eb289a71a.mp3",
     "static/media/logo.png": "/etiennemachine/static/media/logo.5bff03397bb9ea8d3129.png",
@@ -16,13 +24,13 @@
     "static/media/youtube.svg": "/etiennemachine/static/media/youtube.03bb1fe841d60f4c3da98b59c3b31d6b.svg",
     "static/media/facebook.svg": "/etiennemachine/static/media/facebook.8a16e81e934d69b823501bd40008dc66.svg",
     "static/media/bandcamp.svg": "/etiennemachine/static/media/bandcamp.f2ec995f466c748b746410d34e08df72.svg",
-    "main.2d386247.css.map": "/etiennemachine/static/css/main.2d386247.css.map",
-    "main.d756b4fa.js.map": "/etiennemachine/static/js/main.d756b4fa.js.map",
+    "main.dc6a365d.css.map": "/etiennemachine/static/css/main.dc6a365d.css.map",
+    "main.b52d8a02.js.map": "/etiennemachine/static/js/main.b52d8a02.js.map",
     "845.de2ef9cd.chunk.js.map": "/etiennemachine/static/js/845.de2ef9cd.chunk.js.map",
     "787.6444aa03.chunk.js.map": "/etiennemachine/static/js/787.6444aa03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d386247.css",
-    "static/js/main.d756b4fa.js"
+    "static/css/main.dc6a365d.css",
+    "static/js/main.b52d8a02.js"
   ]
 }
