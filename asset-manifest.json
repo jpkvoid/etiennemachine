@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/etiennemachine/static/css/main.54b6feaa.css",
-    "main.js": "/etiennemachine/static/js/main.cebc6094.js",
+    "main.css": "/etiennemachine/static/css/main.9ede6e98.css",
+    "main.js": "/etiennemachine/static/js/main.bf006a26.js",
     "static/js/845.de2ef9cd.chunk.js": "/etiennemachine/static/js/845.de2ef9cd.chunk.js",
     "static/js/787.6444aa03.chunk.js": "/etiennemachine/static/js/787.6444aa03.chunk.js",
     "static/media/hero.png": "/etiennemachine/static/media/hero.5a150c92f8fed37542ba.png",
@@ -15,6 +15,10 @@
     "static/media/arno1.jpg": "/etiennemachine/static/media/arno1.e2f1d9d4cd94f15fcdb5.jpg",
     "static/media/asher2.jpg": "/etiennemachine/static/media/asher2.b101372c8012200c543a.jpg",
     "static/media/sacha2.jpg": "/etiennemachine/static/media/sacha2.ff4c3de4290a130c8bab.jpg",
+    "static/media/etienneMachine.jpg": "/etiennemachine/static/media/etienneMachine.b219b4993ba80d388268.jpg",
+    "static/media/onAndOn.jpg": "/etiennemachine/static/media/onAndOn.eae8068c0992b4a10a26.jpg",
+    "static/media/overAndOut.jpg": "/etiennemachine/static/media/overAndOut.4472c58145f5a88fd1b0.jpg",
+    "static/media/offAndOff.jpg": "/etiennemachine/static/media/offAndOff.01ec55a363574511ee2a.jpg",
     "static/media/playground_logo.png": "/etiennemachine/static/media/playground_logo.d213c2599e5e4255eab9.png",
     "static/media/easterMachine20.mp3": "/etiennemachine/static/media/easterMachine20.709d052fad2eb289a71a.mp3",
     "static/media/logo.png": "/etiennemachine/static/media/logo.5bff03397bb9ea8d3129.png",
@@ -24,13 +28,13 @@
     "static/media/youtube.svg": "/etiennemachine/static/media/youtube.03bb1fe841d60f4c3da98b59c3b31d6b.svg",
     "static/media/facebook.svg": "/etiennemachine/static/media/facebook.8a16e81e934d69b823501bd40008dc66.svg",
     "static/media/bandcamp.svg": "/etiennemachine/static/media/bandcamp.f2ec995f466c748b746410d34e08df72.svg",
-    "main.54b6feaa.css.map": "/etiennemachine/static/css/main.54b6feaa.css.map",
-    "main.cebc6094.js.map": "/etiennemachine/static/js/main.cebc6094.js.map",
+    "main.9ede6e98.css.map": "/etiennemachine/static/css/main.9ede6e98.css.map",
+    "main.bf006a26.js.map": "/etiennemachine/static/js/main.bf006a26.js.map",
     "845.de2ef9cd.chunk.js.map": "/etiennemachine/static/js/845.de2ef9cd.chunk.js.map",
     "787.6444aa03.chunk.js.map": "/etiennemachine/static/js/787.6444aa03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b6feaa.css",
-    "static/js/main.cebc6094.js"
+    "static/css/main.9ede6e98.css",
+    "static/js/main.bf006a26.js"
   ]
 }
