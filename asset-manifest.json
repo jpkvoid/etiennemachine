@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/etiennemachine/static/css/main.821ccecd.css",
-    "main.js": "/etiennemachine/static/js/main.89d88f3c.js",
+    "main.css": "/etiennemachine/static/css/main.cfb8306e.css",
+    "main.js": "/etiennemachine/static/js/main.d756b4fa.js",
     "static/js/845.de2ef9cd.chunk.js": "/etiennemachine/static/js/845.de2ef9cd.chunk.js",
     "static/js/787.6444aa03.chunk.js": "/etiennemachine/static/js/787.6444aa03.chunk.js",
     "static/media/hero.png": "/etiennemachine/static/media/hero.5a150c92f8fed37542ba.png",
@@ -16,13 +16,13 @@
     "static/media/youtube.svg": "/etiennemachine/static/media/youtube.03bb1fe841d60f4c3da98b59c3b31d6b.svg",
     "static/media/facebook.svg": "/etiennemachine/static/media/facebook.8a16e81e934d69b823501bd40008dc66.svg",
     "static/media/bandcamp.svg": "/etiennemachine/static/media/bandcamp.f2ec995f466c748b746410d34e08df72.svg",
-    "main.821ccecd.css.map": "/etiennemachine/static/css/main.821ccecd.css.map",
-    "main.89d88f3c.js.map": "/etiennemachine/static/js/main.89d88f3c.js.map",
+    "main.cfb8306e.css.map": "/etiennemachine/static/css/main.cfb8306e.css.map",
+    "main.d756b4fa.js.map": "/etiennemachine/static/js/main.d756b4fa.js.map",
     "845.de2ef9cd.chunk.js.map": "/etiennemachine/static/js/845.de2ef9cd.chunk.js.map",
     "787.6444aa03.chunk.js.map": "/etiennemachine/static/js/787.6444aa03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.821ccecd.css",
-    "static/js/main.89d88f3c.js"
+    "static/css/main.cfb8306e.css",
+    "static/js/main.d756b4fa.js"
   ]
 }
