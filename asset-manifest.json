@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/etiennemachine/static/css/main.5d35cfbf.css",
-    "main.js": "/etiennemachine/static/js/main.2432b9cb.js",
+    "main.css": "/etiennemachine/static/css/main.b34c8207.css",
+    "main.js": "/etiennemachine/static/js/main.3b6b6d65.js",
     "static/js/787.6444aa03.chunk.js": "/etiennemachine/static/js/787.6444aa03.chunk.js",
     "static/media/hero.png": "/etiennemachine/static/media/hero.5a150c92f8fed37542ba.png",
     "static/media/etiennemachine1.jpg": "/etiennemachine/static/media/etiennemachine1.8e178c0f9399408fbb16.jpg",
@@ -9,12 +9,17 @@
     "static/media/playground_logo.png": "/etiennemachine/static/media/playground_logo.d213c2599e5e4255eab9.png",
     "static/media/logo.png": "/etiennemachine/static/media/logo.5bff03397bb9ea8d3129.png",
     "index.html": "/etiennemachine/index.html",
-    "main.5d35cfbf.css.map": "/etiennemachine/static/css/main.5d35cfbf.css.map",
-    "main.2432b9cb.js.map": "/etiennemachine/static/js/main.2432b9cb.js.map",
+    "static/media/instagram.svg": "/etiennemachine/static/media/instagram.849150f40cd137617202962a2e728c4d.svg",
+    "static/media/spotify.svg": "/etiennemachine/static/media/spotify.ee43100e7fc43419b0053adb32d25461.svg",
+    "static/media/youtube.svg": "/etiennemachine/static/media/youtube.03bb1fe841d60f4c3da98b59c3b31d6b.svg",
+    "static/media/facebook.svg": "/etiennemachine/static/media/facebook.8a16e81e934d69b823501bd40008dc66.svg",
+    "static/media/bandcamp.svg": "/etiennemachine/static/media/bandcamp.f2ec995f466c748b746410d34e08df72.svg",
+    "main.b34c8207.css.map": "/etiennemachine/static/css/main.b34c8207.css.map",
+    "main.3b6b6d65.js.map": "/etiennemachine/static/js/main.3b6b6d65.js.map",
     "787.6444aa03.chunk.js.map": "/etiennemachine/static/js/787.6444aa03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d35cfbf.css",
-    "static/js/main.2432b9cb.js"
+    "static/css/main.b34c8207.css",
+    "static/js/main.3b6b6d65.js"
   ]
 }
