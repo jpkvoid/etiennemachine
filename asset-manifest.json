@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/etiennemachine/static/css/main.8b01f5e0.css",
-    "main.js": "/etiennemachine/static/js/main.7a79f98d.js",
+    "main.css": "/etiennemachine/static/css/main.aa8bfeac.css",
+    "main.js": "/etiennemachine/static/js/main.a04d366c.js",
     "static/js/845.de2ef9cd.chunk.js": "/etiennemachine/static/js/845.de2ef9cd.chunk.js",
     "static/js/787.6444aa03.chunk.js": "/etiennemachine/static/js/787.6444aa03.chunk.js",
     "static/media/hero.png": "/etiennemachine/static/media/hero.5a150c92f8fed37542ba.png",
-    "static/media/julien2.jpeg": "/etiennemachine/static/media/julien2.0e612d31a9cc5a3346a2.jpeg",
-    "static/media/etiennemachine1.jpg": "/etiennemachine/static/media/etiennemachine1.8e178c0f9399408fbb16.jpg",
-    "static/media/playground_cover.jpg": "/etiennemachine/static/media/playground_cover.7d9268ce1629a293577f.jpg",
     "static/media/julien1.jpg": "/etiennemachine/static/media/julien1.bfb8743dae6271dff52f.jpg",
     "static/media/arno2.jpg": "/etiennemachine/static/media/arno2.7858877ade7d44634941.jpg",
     "static/media/asher1.jpg": "/etiennemachine/static/media/asher1.2f441d197365e3bd5df4.jpg",
@@ -15,6 +12,9 @@
     "static/media/arno1.jpg": "/etiennemachine/static/media/arno1.e2f1d9d4cd94f15fcdb5.jpg",
     "static/media/asher2.jpg": "/etiennemachine/static/media/asher2.b101372c8012200c543a.jpg",
     "static/media/sacha2.jpg": "/etiennemachine/static/media/sacha2.ff4c3de4290a130c8bab.jpg",
+    "static/media/julien2.jpeg": "/etiennemachine/static/media/julien2.f4a5950672df97136d78.jpeg",
+    "static/media/playground_cover_1000.jpg": "/etiennemachine/static/media/playground_cover_1000.881ef93d7477c92039ca.jpg",
+    "static/media/etiennemachine1700.jpg": "/etiennemachine/static/media/etiennemachine1700.dbf26bd32567ddb9f5f5.jpg",
     "static/media/etienneMachine.jpg": "/etiennemachine/static/media/etienneMachine.b219b4993ba80d388268.jpg",
     "static/media/onAndOn.jpg": "/etiennemachine/static/media/onAndOn.eae8068c0992b4a10a26.jpg",
     "static/media/overAndOut.jpg": "/etiennemachine/static/media/overAndOut.4472c58145f5a88fd1b0.jpg",
@@ -28,13 +28,13 @@
     "static/media/youtube.svg": "/etiennemachine/static/media/youtube.03bb1fe841d60f4c3da98b59c3b31d6b.svg",
     "static/media/facebook.svg": "/etiennemachine/static/media/facebook.8a16e81e934d69b823501bd40008dc66.svg",
     "static/media/bandcamp.svg": "/etiennemachine/static/media/bandcamp.f2ec995f466c748b746410d34e08df72.svg",
-    "main.8b01f5e0.css.map": "/etiennemachine/static/css/main.8b01f5e0.css.map",
-    "main.7a79f98d.js.map": "/etiennemachine/static/js/main.7a79f98d.js.map",
+    "main.aa8bfeac.css.map": "/etiennemachine/static/css/main.aa8bfeac.css.map",
+    "main.a04d366c.js.map": "/etiennemachine/static/js/main.a04d366c.js.map",
     "845.de2ef9cd.chunk.js.map": "/etiennemachine/static/js/845.de2ef9cd.chunk.js.map",
     "787.6444aa03.chunk.js.map": "/etiennemachine/static/js/787.6444aa03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b01f5e0.css",
-    "static/js/main.7a79f98d.js"
+    "static/css/main.aa8bfeac.css",
+    "static/js/main.a04d366c.js"
   ]
 }
